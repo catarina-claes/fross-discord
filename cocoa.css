@@ -1,0 +1,182 @@
+.tutorialContainer-30WoTp{
+    visibility : hidden;
+    size : 0px;
+}
+.circleIconButton-1QV--U{
+    visibility : hidden;
+}
+div[aria-label="Servers"]{
+    display:flex;
+}
+.guilds-1SWlCJ {
+    position: fixed;
+    width: 240px;
+    z-index: 70;
+}
+.tree-2wKJdG {
+    display: flex;
+    height: 48px;
+}
+.guildSeparator-33mFX6 {
+    display: none;
+}
+.listItem-GuPuDH {
+    width: 60px;
+}
+.item-2hkk8m {
+    display: none;
+    position: absolute;
+    width: 8px;
+    border-radius: 50px;
+    margin-left: -4px;
+    background-color: #570092;
+}
+.svg-1X37T1 {
+    width: 37px;
+    height: 37px;
+}
+.scroller-1Bvpku {
+    display: flex;
+    padding: 5px 0 0;
+}
+.tutorialContainer-2sGCg9 {
+    position: relative;
+    width: 57px;
+    margin-left: 6px;
+}
+.lowerBadge-29hYVK, .upperBadge-2XnnGB {
+    right: 8px;
+    bottom: 8px;
+}
+.content-98HsJk {
+    background-image: url("https://cdn.discordapp.com/attachments/845657733742723112/852887432504410153/90068828_p0.png");
+    background-size:cover;
+}
+.chat-3bRxxu {
+    background: #250333ad;
+}
+.sidebar-2K8pFh {
+    background: #12042954;
+}
+.container-3w7J-x {
+    background: #120429c9;
+}
+.membersGroup-v9BXpm {
+    display: none;
+}
+.content-3QAtGj, .name-uJV0GL {
+    display: none;
+}
+.membersWrap-2h-GB4 {
+    min-width: 0px;
+}
+.members-1998pB, .members-1998pB>div {
+    background-color:#210527;
+    width: 65px;
+}
+.panels-j1Uci_ {
+    height: 60px;
+    background-color: #250e3c;
+}
+.scrollableContainer-2NUZem {
+    background-color: #120019;
+}
+.unread-1xRYoj {
+    background-color: #120019;
+    opacity: .9;
+}
+.reaction-1hd86g {
+    background: #120019;
+}
+.menu-3sdvDG {
+    position: relative;
+    background: #120019;
+}
+.wrapper-2aW0bm {
+    background-color: #120019;
+}
+.container-1r6BKw.themed-ANHk51 {
+    background: #210527;
+}
+.scroller-1Bvpku {
+    background-color: #210527;
+}
+.searchBar-3dMhjb {
+    background-color: #120019;
+}
+.theme-dark .children-19S4PO:after {
+    background: 0;
+}
+.membersWrap-2h-GB4 {
+    min-width: 0px;
+    z-index: 101;
+    top: -47px;
+    height: 117%;
+}
+.container-1r6BKw, .container-1r6BKw * {
+    box-sizing: content-box; 
+}
+.markup-2BOw-j code {
+    background: #120019;
+    border: 1px solid #210527;
+}
+.friendsEmpty-1K9B4k {
+    background: #250333ad;
+}
+.container-lRFx4q {
+    background-color: #210527;
+    height: 100%;
+}
+.emptyCard-1RJw8n {
+    background: #120019;
+}
+.peopleList-3c4jOR {
+    padding-bottom: 8px;
+    background: #250333ad;
+    margin-top: 0px;
+}
+.scroller-1JbKMe {
+    background-color: #160028f0;
+    width: 70px;
+}
+.privateChannels-1nO12o, .searchBar-6Kv8R2 {
+    background: #2d022566;
+;
+}
+.actionButton-uPB8Fs {
+    background-color: #120019;
+}
+.embedFull-2tM8-- {
+    border-left: 4px solid var(--background-tertiary);
+    background: #210527;
+}
+
+.wrapper-35wsBm {
+    background-color: #120019;
+}
+.childWrapper-anI2G9 {
+    background-color: #120019;
+    color: var(--text-normal);
+}
+.headerTop-2cWpdB {
+    background-color: #120019;
+    border-bottom: 1px solid #120019;
+}
+.body-3HBlXn {
+    background-color: #210527;
+}
+.footer-1N3bR3 {
+    background-color: #210527;
+    color: var(--interactive-active);
+}
+.avatar-37jOim {
+    border: 6px solid #120019;
+    background-color: #120019;
+}
+.headerNormal-1mX3KY {
+    background-color: #900a87;
+}
+.input-2_SIlA {
+    font-size: 14px;
+    background-color: #120019;
+}
