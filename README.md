@@ -1,4 +1,4 @@
-# fross-discord
+# fross-discord (pico version)
 fross
 
 ![alt text](https://cdn.discordapp.com/attachments/840605228034424855/854152523867095120/okayy.PNG)
